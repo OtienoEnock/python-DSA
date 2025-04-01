@@ -6,11 +6,9 @@ my_list. append(20)
 my_list. append(30)
 my_list. append(40)
 
-# inserting 15 into second position in my_lists. 
+# Insert 15 into second position. Extend my_list with another 
 
 my_list.insert(1, 15)
-
-#extend my_list with another. 
 
 new_list = [50, 60, 70]
 my_list.extend(new_list)
